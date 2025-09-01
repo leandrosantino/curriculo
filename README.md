@@ -8,17 +8,9 @@ LinkedIn: [in/leandro-santino-7b2717215](https://www.linkedin.com/in/leandro-san
 
 ---
 
-## Objetivo Profissional
-
-Atuar como **Desenvolvedor Back-end ou Full Stack Web**, contribuindo para o desenvolvimento de **APIs, microsserviços e aplicações web/mobile**, com foco em **eficiência, escalabilidade e boas práticas de engenharia de software**.
-
----
-
 ## Resumo Profissional
 
-Estudante de **Ciência da Computação** com experiência prática em **desenvolvimento full stack** e análise de dados.
-Atuo no setor automotivo em ambiente corporativo, onde desenvolvi soluções internas que incluem **aplicações web, mobile e automações de processos**, gerando **ganhos reais de eficiência**.
-Tenho vivência no desenvolvimento de **APIs REST**, **front-end com React/Angular**, **bancos de dados SQL e NoSQL**, além de **Docker** e **cloud (AWS e OCI)**. Busco consolidar minha carreira como desenvolvedor, aplicando meus conhecimentos técnicos e ampliando minhas contribuições em projetos de impacto.
+Estudante de Ciência da Computação com sólida experiência prática em desenvolvimento Full Stack e análise de dados no setor automotivo, atuando em ambiente corporativo de alta complexidade. Responsável por projetar e implementar soluções internas que envolvem aplicações Web e Mobile, automação de processos e integrações tecnológicas, gerando ganhos expressivos em eficiência operacional e redução de custos. Possuo vivência no desenvolvimento de **APIs REST**, interfaces modernas e arquiteturas escaláveis, utilizando tecnologias como **Java (Spring Boot)**, **Node.js (Express, Fastify)**, **React**, **Angular**, **TypeORM** e **Prisma**. Experiência com **bancos de dados SQL e NoSQL (PostgreSQL, MongoDB)**, práticas de **DevOps** e **Cloud Computing (AWS, Oracle Cloud)** com **Docker** e versionamento em **Git/GitHub**. Tenho também conhecimentos em **testes unitários**, documentação com **Swagger** e desenvolvimento multiplataforma com **Electron**. Busco consolidar minha carreira como Desenvolvedor, aplicando minhas competências técnicas para entregar soluções inovadoras e de impacto no negócio.
 
 ---
 
@@ -26,27 +18,6 @@ Tenho vivência no desenvolvimento de **APIs REST**, **front-end com React/Angul
 
 * **Ciência da Computação** – Estácio, Recife-PE (2023 – 2027)
 * **Técnico em Automação Industrial** – SENAI, Goiana-PE (2022 – 2023)
-
----
-
-## Experiência Profissional
-
-**Suporte de TI – Adler Pelzer Group | Polo Automotivo Stellantis (2024 – atual)**
-Atuação no suporte tecnológico e desenvolvimento de soluções internas para otimização de processos.  <br>
-
-Principais projetos e atividades:
-* **App Web (React) e Mobile (FlutterFlow)** para contagem de inventário via código de barras → redução de **4 horas-homens** no tempo de inventário.
-* **Sistema de apontamento de produção (React + Supabase)** com dashboards de eficiência → permitiu visualização em tempo real de **paradas de máquinas e eficiência produtiva**, melhorando o planejamento da produção.
-* **Automação de fluxos de formulários** com Power Automate e Office 365 → integração de processos administrativos e redução de tarefas manuais.
-* Apoio em análise de dados e desenvolvimento de dashboards em Power BI.
-* Participação em projetos de integração tecnológica, incluindo **implementação de robô autônomo AMR (MiR)**.
-
-**Jovem Aprendiz – Automação Industrial – Adler Pelzer Group (2022 – 2024)**
-Atividades relacionadas a automação de processos industriais e desenvolvimento de soluções internas. <br>
-
-Principais projetos e atividades:
-* **Sistema de contagem de inventário do almoxarifado da manutenção** utilizando **Electron, Python e IoT com Arduino** → redução do tempo de contagem de **1 semana para 2 dias**.
-* Apoio em rotinas de manutenção e automação industrial.
 
 ---
 
@@ -64,25 +35,30 @@ Principais projetos e atividades:
 
 ---
 
-## Habilidades Técnicas
+## Experiência Profissional
 
-**Back-end:** Java (Spring Boot), Node.js (Express, Fastify), TypeORM, Prisma <br>
-**Front-end:** React, Angular, TailwindCSS, Styled Components <br>
-**Banco de Dados:** SQL, PostgreSQL, MongoDB <br>
-**Cloud & DevOps:** AWS, Oracle Cloud (OCI), Docker, Swagger, Git/GitHub <br>
-**Outros:** Testes unitários e cobertura de testes, Power BI, Electron <br>
+**Suporte de TI – Adler Pelzer Group | Polo Automotivo Stellantis (2024 – atual)**
+Atuação no suporte tecnológico e desenvolvimento de soluções internas para otimização de processos.  <br>
+
+Principais projetos e atividades:
+* **Desenvolvimento de Aplicações Web e Mobile**: Criação de um sistema de contagem de inventário utilizando React (Web) e FlutterFlow (Mobile) com leitura via código de barras.
+
+* **Sistema de Controle de Produção**: Implementação de um sistema de apontamento de produção com React e Supabase, incluindo dashboards de eficiência em tempo real, possibilitando monitoramento de paradas de máquinas e indicadores de produtividade.
+
+* **Automação de Processos Administrativos**: Criação de fluxos automatizados com Power Automate e Office 365.
+
+* **Business Intelligence e Análise de Dados**: Apoio no desenvolvimento de dashboards gerenciais e relatórios interativos em Power BI.
+
+* **Integração Tecnológica e Robótica**: Participação em projetos de integração tecnológica, incluindo a implementação de robô autônomo móvel (AMR – MiR) para otimização logística.
+
+**Jovem Aprendiz – Automação Industrial – Adler Pelzer Group (2022 – 2024)**
+Atividades relacionadas a automação de processos industriais e desenvolvimento de soluções internas. <br>
+
+Principais projetos e atividades:
+* **Sistema de Inventário Automatizado:** Desenvolvimento de solução para contagem de inventário do almoxarifado utilizando Electron, Python e IoT com Arduino.
+
+* **Suporte em Automação e TI:** Apoio em rotinas de manutenção e automação industrial, com participação em projetos de integração entre hardware, software e sistemas de produção.
 
 ---
 
-## Soft Skills
-
-* Trabalho em equipe e colaboração
-* Resolução de problemas e pensamento analítico
-* Aprendizado contínuo e adaptabilidade
-* Proatividade e comprometimento
-
----
-
-## Idiomas
-
-**Inglês:** Básico (leitura técnica)
+<sub>Desenvolvedor web, full stack, back-end, front-end, Java, Spring Boot, Node.js, React, Angular, TypeScript, APIs REST, SQL, PostgreSQL, MongoDB, Docker, Git, GitHub, AWS, Oracle Cloud, testes unitários, Swagger.</sub>
