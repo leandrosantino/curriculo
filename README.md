@@ -48,7 +48,6 @@ Principais projetos e atividades:
 * **Sistema de contagem de inventário do almoxarifado da manutenção** utilizando **Electron, Python e IoT com Arduino** → redução do tempo de contagem de **20 para 12 horas**.
 * Apoio em rotinas de manutenção e automação industrial.
 
-
 ---
 
 ## Cursos e Certificações
