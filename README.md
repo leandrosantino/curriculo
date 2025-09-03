@@ -6,22 +6,18 @@ Recife – PE, [leandrosantino2013@gmail.com](mailto:leandrosantino2013@gmail.co
 GitHub: [github.com/leandrosantino](https://github.com/leandrosantino) <br>
 LinkedIn: [in/leandro-santino-7b2717215](https://www.linkedin.com/in/leandro-santino-7b2717215)
 
----
-
 ## Resumo Profissional
 
 <p align="justify" >
 Estudante de Ciência da Computação com sólida experiência prática em desenvolvimento Full Stack e análise de dados no setor automotivo, atuando em ambiente corporativo de alta complexidade. Responsável por projetar e implementar soluções internas que envolvem aplicações Web e Mobile, automação de processos e integrações tecnológicas, gerando ganhos expressivos em eficiência operacional e redução de custos. Possuo vivência no desenvolvimento de <strong>APIs REST</strong>, interfaces modernas e arquiteturas escaláveis, utilizando tecnologias como <strong>Java (Spring Boot)</strong>, <strong>Node.js (Express, Fastify)</strong>, <strong>React</strong>, <strong>Angular</strong>, <strong>TypeORM</strong> e <strong>Prisma</strong>. Experiência com <strong>bancos de dados SQL e NoSQL (PostgreSQL, MongoDB)</strong>, práticas de <strong>DevOps</strong> e <strong>Cloud Computing (AWS, Oracle Cloud)</strong> com <strong>Docker</strong> e versionamento em <strong>Git/GitHub</strong>. Tenho também conhecimentos em <strong>testes unitários</strong>, documentação com <strong>Swagger</strong> e desenvolvimento multiplataforma com <strong>Electron</strong>. Busco consolidar minha carreira como Desenvolvedor, aplicando minhas competências técnicas para entregar soluções inovadoras e de impacto no negócio.
 </p>
 
----
 <strong></strong>
 ## Formação
 
 * **Ciência da Computação** – Estácio, Recife-PE (2023 – 2027)
 * **Técnico em Automação Industrial** – SENAI, Goiana-PE (2022 – 2023)
 
----
 
 ## Cursos e Certificações
 
@@ -31,8 +27,6 @@ Estudante de Ciência da Computação com sólida experiência prática em desen
 * **Testes de Software com JUnit e Mockito** (2024)
 * **Testes de Software com JUnit e Mockito** (2024)
 * Programação para a Internet: HTML, CSS, JavaScript, PHP e Python (2022)
-
----
 
 ## Experiência Profissional
 
@@ -54,7 +48,5 @@ Principais projetos e atividades:
 * **Sistema de Inventário Automatizado:** Desenvolvimento de solução para contagem de inventário do almoxarifado utilizando Electron, Python e IoT com Arduino.
 
 * **Suporte em Automação e TI:** Apoio em rotinas de manutenção e automação industrial, com participação em projetos de integração entre hardware, software e sistemas de produção.
-
----
 
 <sub>Desenvolvedor web, full stack, back-end, front-end, Java, Spring Boot, Node.js, React, Angular, TypeScript, APIs REST, SQL, PostgreSQL, MongoDB, Docker, Git, GitHub, AWS, Oracle Cloud, testes unitários, Swagger.</sub>
