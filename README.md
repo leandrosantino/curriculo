@@ -49,4 +49,6 @@ Principais projetos e atividades:
 
 * **Suporte em Automação e TI:** Apoio em rotinas de manutenção e automação industrial, com participação em projetos de integração entre hardware, software e sistemas de produção.
 
+---
+
 <sub>Desenvolvedor web, full stack, back-end, front-end, Java, Spring Boot, Node.js, React, Angular, TypeScript, APIs REST, SQL, PostgreSQL, MongoDB, Docker, Git, GitHub, AWS, Oracle Cloud, testes unitários, Swagger.</sub>
