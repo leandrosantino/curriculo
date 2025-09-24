@@ -1,8 +1,13 @@
 **Carta de Apresentação**
 
-Sou estudante de Ciência da Computação com experiência em desenvolvimento Full Stack e análise de dados aplicados ao setor automotivo. Tenho vivência em projetos que envolvem coleta, organização e integração de dados, além da criação de dashboards interativos para apoiar diferentes áreas da empresa.
+Presado(a),
 
-Tenho experiência prática em **SQL, Power BI, APIs REST e integrações entre múltiplas fontes de dados**, além de habilidades em **Java (Spring Boot), Node.js e Python** para construção de pipelines e soluções escaláveis. Busco consolidar minha carreira em **Data Analytics**, aplicando minhas competências para gerar **insights estratégicos** e apoiar decisões orientadas a dados.
+Gostaria de me candidatar à vaga de Estágio em TI, meu nome é Leandro, atualmente estou cursando o 4º período de Ciência da Computação, possuo experiência prática em Office 365 e sistema Windows, incluindo instalação e configuração de softwares. Tenho conhecimento em linguagem SQL, além de experiência com MS SQL Server, Power BI, Excel Avançado e ambientes Linux. Também já participei de projetos de análise e integração de dados, desenvolvendo dashboards interativos para apoiar áreas estratégicas. Tenho habilidades em Python, Java e JavaScript, sempre buscando aplicar meus conhecimentos para otimizar processos e contribuir com soluções eficientes. Acredito que meu perfil está alinhado com a vaga e que posso contribuir de forma proativa com a equipe de TI.
+
+Segue meu curriculo para sua análise.
 
 Atenciosamente,
-**Leandro Santino Ferreira dos Santos**
+Leandro Santino
+Linkedin: https://www.linkedin.com/in/leandro-santino-7b2717215
+GitHub: https://github.com/leandrosantino
+Fone: (81) 9 9376-6292
